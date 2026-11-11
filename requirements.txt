@@ -1,0 +1,3 @@
+# Pydantic AI só com o cliente do Groq (mais leve que o pacote completo "pydantic-ai").
+# Para usar Gemini, troque por: pydantic-ai-slim[groq,google]
+pydantic-ai-slim[groq]
